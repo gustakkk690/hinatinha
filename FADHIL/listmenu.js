@@ -23,12 +23,6 @@ const listmenu = (prefix) => {
 ◥⇝ *${prefix}google [ultimas notícias]*
 ◥⇝ *${prefix}pinterest*
 ◥⇝ *${prefix}play*
-◥⇝ *${prefix}msc1*
-◥⇝ *${prefix}msc2*
-◥⇝ *${prefix}msc3*
-◥⇝ *${prefix}msc4*
-◥⇝ *${prefix}msc5*
-◥⇝ *${prefix}msc6*
 ════════════════════
 
 ═══➣MENU DE DIVERSÕES√════
